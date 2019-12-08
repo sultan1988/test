@@ -1,6 +1,5 @@
 media-match.com
 adclick.g.doublecklick.net
-www.googleadservices.com
 pagead2.googlesyndication.com
 desktop.spotify.com
 googleads.g.doubleclick.net
