@@ -20,7 +20,6 @@ d2gi7ultltnc2u.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
 doubleclick.net
 ds.serving-sys.com
-googleadservices.com
 gtssl2-ocsp.geotrust.com
 js.moatads.com
 log.spotify.com
@@ -33,7 +32,6 @@ tpc.googlesyndication.com
 v.jwpcdn.com
 video-ad-stats.googlesyndication.com
 weblb-wg.gslb.spotify.com
-www.googletagservices.com
 cs283.wpc.teliasoneracdn.net
 cs126.wpc.teliasoneracdn.net
 u.scdn.co
@@ -87,7 +85,6 @@ fw.adsafeprotected.com
 gew1.ap.spotify.com
 googleadapis.l.google.com
 googleads4.g.doubleclick.net
-googletagservices.com
 heads-ak.spotify.com
 heads-akp.spotify.com
 heads-cf.spotify.com
